@@ -12,6 +12,12 @@ This project implements an ETL pipeline using Python and Pandas to process trans
 - CLI-based execution
 - Class-based design
 
+## Improvisations
+- Added data validation for null and empty fields
+- Implemented groupby aggregation and HAVING filter
+- Added CLI support using argparse
+- Implemented logging with file and console handlers
+
 ## Architecture
 Extract → Transform → Load
 
