@@ -1,0 +1,8 @@
+[
+  {"customer_id": 1, "name": "Alice", "amount": 200, "city": "NY"},
+  {"customer_id": 1, "name": "Alice", "amount": 300, "city": "NY"},
+  {"customer_id": 2, "name": "Bob", "amount": 150, "city": "LA"},
+  {"customer_id": 2, "name": "Bob", "amount": 100, "city": "LA"},
+  {"customer_id": 3, "name": "Charlie", "amount": 700, "city": "SF"},
+  {"customer_id": 4, "name": "", "amount": 400, "city": "TX"}
+]
