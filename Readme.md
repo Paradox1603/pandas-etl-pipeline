@@ -48,7 +48,7 @@ The pipeline performs the following checks:
 
 
 ## Project Structure
-
+```text
 pandas-etl-pipeline/
 │
 ├── main_script.py       # Entry point (CLI)
@@ -58,6 +58,7 @@ pandas-etl-pipeline/
 ├── output.csv          # Generated output
 ├── requirements.txt    # Dependencies
 ├── README.md           # Documentation
+```
 
 
 ## How to Run
